@@ -1,38 +1,31 @@
-# pc1
+# TV Shows Catalog
 
-This template should help get you started developing with Vue 3 in Vite.
+Web application built with Vue 3.5 that displays TV series from the public
+[TVMaze API](https://www.tvmaze.com/api) as Material Design cards.
 
-## Recommended IDE Setup
+## Features
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Toolbar with the client logo (Logo.dev), app title and language selector (EN | ES | PT).
+- Show List with one card per show: image, name, genres, language, network or platform,
+  premiere date and summary.
+- Card footer with rating and status, plus a share button (Web Share API or clipboard).
+- Four cards per row on large screens.
+- English by default, with Spanish and Portuguese translations.
 
-## Recommended Browser Setup
+## Dependencies
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- Vue 3.5 (Composition API) and Vite
+- PrimeVue (Material theme), PrimeIcons and PrimeFlex
+- Axios
+- Vue I18n
 
-## Customize configuration
+## Getting started
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+## Author
 
-```sh
-npm run build
-```
+Josue Antonio Flores Apaico - u20201f773
