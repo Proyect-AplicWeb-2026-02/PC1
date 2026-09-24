@@ -1,0 +1,42 @@
+﻿{
+  "toolbar": {
+    "title": "TV Shows Catalog",
+    "logo-alt": "TVMaze logo",
+    "language-selector": "Select interface language"
+  },
+  "show-list": {
+    "title": "Show List",
+    "loading": "Loading shows"
+  },
+  "show": {
+    "image-alt": "Poster of {name}",
+    "no-genres": "No genres listed",
+    "language": "Language",
+    "broadcaster": "Network / Platform",
+    "premiered": "Premiere date",
+    "summary": "Summary",
+    "not-available": "Not available",
+    "rating-status": "Rating & Status",
+    "rating-value": "{value} out of 10",
+    "not-rated": "Not rated yet",
+    "share": "Share Information",
+    "share-aria": "Share information about {name}",
+    "link-copied": "Link copied",
+    "link-copied-detail": "The link to {name} is on your clipboard.",
+    "share-failed": "The link could not be shared or copied.",
+    "statuses": {
+      "running": "Running",
+      "ended": "Ended",
+      "to-be-determined": "To be determined",
+      "in-development": "In development"
+    }
+  },
+  "unavailable": {
+    "title": "The show catalog is unavailable right now.",
+    "hint": "Check your internet connection and reload the page."
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 TV Shows Catalog. All rights reserved.",
+    "developed-by": "Developed by {code} - {name}"
+  }
+}

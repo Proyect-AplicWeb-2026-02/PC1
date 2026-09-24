@@ -1,0 +1,42 @@
+﻿{
+  "toolbar": {
+    "title": "Catálogo de Séries de TV",
+    "logo-alt": "Logo do TVMaze",
+    "language-selector": "Selecionar idioma da interface"
+  },
+  "show-list": {
+    "title": "Lista de Séries",
+    "loading": "Carregando séries"
+  },
+  "show": {
+    "image-alt": "Pôster de {name}",
+    "no-genres": "Sem gêneros cadastrados",
+    "language": "Idioma",
+    "broadcaster": "Emissora / Plataforma",
+    "premiered": "Data de estreia",
+    "summary": "Resumo",
+    "not-available": "Não disponível",
+    "rating-status": "Avaliação e Status",
+    "rating-value": "{value} de 10",
+    "not-rated": "Ainda sem avaliação",
+    "share": "Compartilhar Informação",
+    "share-aria": "Compartilhar informação de {name}",
+    "link-copied": "Link copiado",
+    "link-copied-detail": "O link de {name} está na sua área de transferência.",
+    "share-failed": "Não foi possível compartilhar nem copiar o link.",
+    "statuses": {
+      "running": "Em exibição",
+      "ended": "Finalizada",
+      "to-be-determined": "A definir",
+      "in-development": "Em desenvolvimento"
+    }
+  },
+  "unavailable": {
+    "title": "O catálogo de séries não está disponível no momento.",
+    "hint": "Verifique sua conexão com a internet e recarregue a página."
+  },
+  "footer": {
+    "copyright": "Copyright © 2026 TV Shows Catalog. Todos os direitos reservados.",
+    "developed-by": "Desenvolvido por {code} - {name}"
+  }
+}
